@@ -1,0 +1,86 @@
+Codemoji teaches you about ciphers.
+Create and share messages with
+your friends using fun emoji.
+
+
+
+
+https://codemoji.org/#/onboarding/step1
+
+Early ciphers shifted
+letters of the alphabet
+by set amounts
+Eg: H would become T (12 is the key)
+
+
+
+
+https://codemoji.org/#/onboarding/step2
+
+Codemoji shifts
+letter too,
+and replaces them with emoji !
+
+
+
+
+https://codemoji.org/#/onboarding/step3
+
+Just write a message
+you want to turn
+into emoji
+
+
+
+
+https://codemoji.org/#/onboarding/step4
+
+Pick an emoji and Codemoji
+will use it in a unique formula
+to scramble your message
+
+
+
+
+
+https://codemoji.org/#/onboarding/step5
+
+Share your emoji
+message with you
+friends and let them
+try to unscramble it
+
+"Ciphers are math at work"
+
+
+
+
+
+
+https://codemoji.org/#/onboarding/step6
+
+Remember to send
+your friends hints
+about which emoji you used.
+Otherwise they won't be able
+to read your message !
+
+
+
+
+
+
+
+https://codemoji.org/#/onboarding/step7
+
+Codemoji is a fun way
+for you and your friends
+to learn about ciphers
+
+You shouldn't use it for
+secure communications, though.
+Thankfully, modern encryption tools
+are way stronger than emojis
+
+Ready to create and share
+your own Codemoji message ?
