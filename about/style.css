@@ -14,7 +14,10 @@ body {
 }
 
 
-
+.nomargin{
+	margin: 0;
+	font-size: 1.5vh;
+}
 
 
 article,
