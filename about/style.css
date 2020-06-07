@@ -8,7 +8,7 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	background-color: #bae8e8;
-/*	position: absolute;*/
+	/*	position: absolute;*/
 
 }
 
@@ -23,8 +23,26 @@ body {
 }
 
 .right {
-/*	position: absolute;*/
+	/*	position: absolute;*/
 	right: 0;
+}
+
+.space {
+	margin: 1.5vh;
+}
+
+/*
+em{
+	font-size: 1rem;
+}
+*/
+
+.read {
+	font-size: 13px;
+	margin: 0;
+	padding: 0;
+	color: darkgrey;
+	font-weight: 600;
 }
 
 .nomargin {
@@ -51,11 +69,10 @@ body {
 	margin-left: -0.75vw;
 	margin-top: 1.5vh;
 	display: flex;
-    align-items: center;
-    justify-content: center;
+	align-items: center;
+	justify-content: center;
 	height: 100%;
 	width: 100px
-	
 }
 
 .read-time h6 {
@@ -65,7 +82,7 @@ body {
 	text-align: center;
 	vertical-align: middle;
 	line-height: 3vh;
-	
+
 }
 
 
