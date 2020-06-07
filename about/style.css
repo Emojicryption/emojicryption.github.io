@@ -22,6 +22,26 @@ body {
 	font-size: 1.5vh;
 }
 
+.flex{
+	display: flex;
+}
+
+.read-time{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding-top: 0.4vh;
+	font-size: 1.25vh;
+	background-color: antiquewhite;
+	border-radius: 2vh;
+	height: 3vh;
+	padding-left: 2.5vw;
+	padding-right: 2.5vw;
+	color: #131313;
+	font-weight: 300;
+	margin-left: 3vw;
+}
+
 
 article,
 aside,
