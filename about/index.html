@@ -9,6 +9,7 @@
 	<meta content="Webflow" name="generator" />
 	<link href="style.css" rel="stylesheet" type="text/css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css" />
 	<script type="text/javascript">
 		WebFont.load({
 			google: {
@@ -26,7 +27,7 @@
 	</script>
 	<link href="assets/icon.png" rel="shortcut icon" type="image/x-icon" />
 	<link href="assets/icon2.png" rel="apple-touch-icon" />
-<!--	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-52115242-23"></script>-->
+	<!--	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-52115242-23"></script>-->
 	<script type="text/javascript">
 		window.dataLayer = window.dataLayer || [];
 
@@ -50,15 +51,18 @@
 	<div class="navbar-container bg-primary-2">
 		<div class="navbar-bg"></div>
 		<div data-collapse="medium" data-animation="default" data-duration="12" data-easing="linear" data-easing2="linear" role="banner" class="navbar w-nav">
-			<div class="container nav-bar-container centered-links-nav"><a href="/" class="w-nav-brand"><img src="assets/logo-black.svg" alt="" /></a>
-				
-				
+			<div class="container nav-bar-container centered-links-nav animate__animated animate__fadeInDown animate__delay-1s">
+			<a href="/" class="w-nav-brand">
+			<img src="assets/logo-black.svg" alt="" />
+			</a>
+
+
 				<nav role="navigation" id="w-node-999791252559-91252555" class="nav-menu-links w-nav-menu">
-				<a href="#" class="nav-menu-link">Home</a>
-				<a href="https://github.com/Druhin13" class="nav-menu-link">Github</a>
-				<a href="https://dribbble.com/druhin" class="nav-menu-link">Dribbble</a>
-				<a href="https://play.google.com/store/apps/dev?id=8268060240427877621" class="nav-menu-link">PlayStore</a>
-<!--
+					<a href="#" class="nav-menu-link">Home</a>
+					<a href="https://github.com/Druhin13" class="nav-menu-link">Github</a>
+					<a href="https://dribbble.com/druhin" class="nav-menu-link">Dribbble</a>
+					<a href="https://play.google.com/store/apps/dev?id=8268060240427877621" class="nav-menu-link">PlayStore</a>
+					<!--
 					<div data-delay="0" class="nav-menu-dropdown-link w-dropdown">
 						<div class="nav-menu-dropdown-toggle w-dropdown-toggle">
 							<div>Pages</div><img src="https://assets.website-files.com/5e58549685a7904fa5912b7c/5e5f34c4311da41a41897147_dropdown-arrow-black.svg" height="4" width="6" alt="Dropdown Arrow" class="dropdown-toggle-down-arrow" />
@@ -93,8 +97,8 @@
 	</div>
 	<div class="page-contents bg-gray-3">
 		<div class="section help-center-header">
-		
-			<div class="container">
+
+			<div class="container animate__animated animate__fadeInUp">
 				<div class="content-width-extra-large page-title">
 					<div class="text-pill-wrapper">
 						<div class="text-pill">
@@ -105,9 +109,9 @@
 					<div class="large-text">A fun encryptor for your text messages. Converting your texts to emojis</div>
 				</div>
 			</div>
-			
+
 		</div>
-		<div class="section help-center-articles">
+		<div class="section help-center-articles animate__animated animate__fadeInUp animate__delay--1s">
 			<div class="container">
 				<div class="w-dyn-list">
 					<div role="list" class="help-center-articles w-dyn-items">
@@ -116,7 +120,7 @@
 								<div class="card-body help-center-article-card-body">
 									<div class="help-center-article-title">
 										<h5>What is Encryption ?</h5>
-										
+
 										<div>Encryption is a way of scrambling data so that only authorized parties can understand the information...</div>
 									</div><img src="https://assets.website-files.com/5e58549685a7904fa5912b7c/5e5c80c60e170634b186ffd4_icon-arrow-right.svg" alt="" class="help-center-card-arrow" />
 								</div>
@@ -125,7 +129,7 @@
 								<div class="card-body help-center-article-card-body">
 									<div class="help-center-article-title">
 										<h5>History of Encryption</h5>
-										
+
 										<div>The earliest known use of cryptography is found in nonstandard hieroglyphs carved into the wall...</div>
 									</div><img src="https://assets.website-files.com/5e58549685a7904fa5912b7c/5e5c80c60e170634b186ffd4_icon-arrow-right.svg" alt="" class="help-center-card-arrow" />
 								</div>
@@ -134,16 +138,23 @@
 								<div class="card-body help-center-article-card-body">
 									<div class="help-center-article-title">
 										<h5>Starter Projects</h5>
-										
+
 										<div>Devkit includes several built-in page templates for developing common types of Devkit apps.</div>
 									</div><img src="https://assets.website-files.com/5e58549685a7904fa5912b7c/5e5c80c60e170634b186ffd4_icon-arrow-right.svg" alt="" class="help-center-card-arrow" />
 								</div>
 							</a></div>
+
+
+
+
+						<br>
+						<br>
+
 						<div role="listitem" class="w-dyn-item"><a href="/article/command-line-usage" class="card help-center-article-card w-inline-block">
 								<div class="card-body help-center-article-card-body">
 									<div class="help-center-article-title">
 										<h5>Command Line Usage</h5>
-										
+
 										<div>You can install the Devkit CLI using a method that matches your operating system, experience level, and/or use case.</div>
 									</div><img src="https://assets.website-files.com/5e58549685a7904fa5912b7c/5e5c80c60e170634b186ffd4_icon-arrow-right.svg" alt="" class="help-center-card-arrow" />
 								</div>
@@ -152,7 +163,7 @@
 				</div>
 			</div>
 		</div>
-<!--
+		<!--
 		<div class="section bg-gray-1 animate-in-fourth">
 			<div class="container">
 				<div class="content-width-extra-large align-center">
@@ -174,7 +185,7 @@
 		</div>
 -->
 		<div class="footer bg-gray-1">
-<!--
+			<!--
 			<div class="container">
 				<div class="footer-with-large-links">
 					<div class="footer-large-link-list"><a href="/" class="w-inline-block">
@@ -206,17 +217,17 @@
 				</div>
 			</div>
 -->
-		
-		<div class="footer-foot-with-logo">
 
-			<a href="index.html" class="footer-foot-logo w-inline-block">
-				<img src="assets/logo-white.svg" alt="" /></a>
+			<div class="footer-foot-with-logo">
 
-			<br>
-			<div class="small-text text-white">© Copyright 2020 <br />Made by <a href="https://druh.in" target="_blank" class="text-white">Druhin</a></div>
-		</div>
-			
-			
+				<a href="index.html" class="footer-foot-logo w-inline-block">
+					<img src="assets/logo-white.svg" alt="" /></a>
+
+				<br>
+				<div class="small-text text-white">© Copyright 2020 <br />Made by <a href="https://druh.in" target="_blank" class="text-white">Druhin</a></div>
+			</div>
+
+
 		</div>
 	</div>
 	<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=5e58549685a7904fa5912b7c" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
