@@ -7,7 +7,8 @@ html {
 	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
-		background-color: #bae8e8;
+	background-color: #bae8e8;
+/*	position: absolute;*/
 
 }
 
@@ -16,21 +17,29 @@ body {
 	background-color: #bae8e8;
 }
 
+.light {
+	color: #bae8e8;
+	background-color: #bae8e8;
+}
 
-.nomargin{
+.right {
+/*	position: absolute;*/
+	right: 0;
+}
+
+.nomargin {
 	margin: 0;
 	font-size: 1.5vh;
 }
 
-.flex{
+.flex {
 	display: flex;
 }
 
-.read-time{
+.read-time {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	padding-top: 0.4vh;
 	font-size: 1.25vh;
 	background-color: antiquewhite;
 	border-radius: 2vh;
@@ -39,7 +48,24 @@ body {
 	padding-right: 2.5vw;
 	color: #131313;
 	font-weight: 300;
-	margin-left: 3vw;
+	margin-left: -0.75vw;
+	margin-top: 1.5vh;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	height: 100%;
+	width: 100px
+	
+}
+
+.read-time h6 {
+	font-size: 1.35vh;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 3vh;
+	
 }
 
 
