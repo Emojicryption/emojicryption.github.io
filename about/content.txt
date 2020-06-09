@@ -237,3 +237,103 @@ Help -
 
 
 https://www.copyandpasteemoji.com/
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************************************************/
+
+
+
+
+
+Play store content -
+
+
+/***************************************************************************/
+
+Emojicryption - Encryption using emojis
+
+
+/***************************************************************************/
+
+
+A fun encryptor for your text messages. Converting your texts to emojis 🤩
+
+
+
+/***************************************************************************/
+
+Emoji + Encryption = Emojicryption
+Using emojis in cryptography
+
+Emojicryption is all about ciphers.
+Its aim is to teach you, the meaning of encryption, in a fun and simple way.
+
+
+
+
+Why Emojis ?
+
+Emojis are meant to be fun, light-hearted, and convey a broad range of emotions efficiently and in a way that words sometimes cannot.
+
+They also have the ability to make it easier to portray your simple text.
+
+They increase engagement because it reduces friction to communication. Emojis can lower this barrier and open up the dialogue to allow the conversation to flow freely.
+
+Emojis are one of the few things that are universal and are available to all internet users across all platforms and devices.
+
+And so, yes, that's the only reason I'm using emojis, to teach you encryption in a simple and fun way.
+
+
+
+
+
+Behind the Scenes :- 
+
+Support
+
+Emojicryption supports all Alphanumeric characters. Alphanumeric, also known as alphameric, simply refers to the type of Latin and Arabic characters representing the numbers 0 - 9, the letters A - Z (both uppercase and lowercase), and some common symbols such as @ # * &.
+
+
+Logic
+
+Early ciphers used to shift letters of the alphabet to encrypt messages. Emojicryption does it too, but with a key, that uses a unique formula to scramble your text message, and then convert them to emojis.
+
+And yes, the key changes periodically too. So, you're unlikely to decrypt the emojicrypted text by just guessing the plaintext.
+
+
+Thanks for using
+Emojicryption
+
+
+
+
+Privacy Policy - https://emojicryption.github.io/about/privacy-policy.html
+
+Terms and Condition - https://emojicryption.github.io/about/terms-and-condition.html
+
+
+Social Links :
+
+Github - https://github.com/Druhin13
+
+Dribbble - https://dribbble.com/druhin
+
+PlayStore - https://play.google.com/store/apps/dev?id=8268060240427877621
+
+
+
+
+/***************************************************************************/
+
+
+
