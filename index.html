@@ -16,13 +16,15 @@
 	<meta property="og:url" content="https://emojicryption.github.io">
 	
 	
-	<!--clicky-->
+	<!--checking if it's opened in desktop-->
 
-	<script>
-		var clicky_site_ids = clicky_site_ids || [];
-		clicky_site_ids.push(101259980);
+	<script type="text/javascript">
+		var interval = setInterval(function() {
+			if (screen.width > 699) {
+				document.location = "https://emojicryption.github.io/about";
+			}
+		}, 1);
 	</script>
-	<script async src="//static.getclicky.com/js"></script>
 	
 	
 
