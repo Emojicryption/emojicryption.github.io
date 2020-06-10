@@ -337,3 +337,8 @@ PlayStore - https://play.google.com/store/apps/dev?id=8268060240427877621
 
 
 
+App Share message
+
+
+
+*Emojicryption* - A fun encryptor for your text messages. Converting your texts to emojis 🤩 | Download Now - https://emojicryption.github.io/download
